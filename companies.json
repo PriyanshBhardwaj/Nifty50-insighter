@@ -1,0 +1,574 @@
+[
+    {
+    "company": "Adani Enterprises Ltd",
+    "history": "Part of the Adani Group, it focuses on incubating new businesses in sectors like airports, roads, and data centers.",
+    "insights": [
+                "Consolidated revenue fell by ₹31,118.52 crore from FY 2022-23 (₹127,539.50 crore) to FY 2023-24 (₹96,420.98 crore), indicating a significant market challenge.",
+                "Consolidated profit before tax increased by ₹2,033.04 crore from FY 2022-23 (₹3,607.24 crore) to FY 2023-24 (₹5,640.28 crore), despite the revenue drop, suggesting improved cost management.",
+                "Exceptional items resulted in a ₹715.37 crore loss in consolidated figures for FY 2023-24, significantly impacting overall profit.",
+                "Standalone revenue plummeted by ₹25,874.42 crore from FY 2022-23 (₹57,886.45 crore) to FY 2023-24 (₹32,012.03 crore), but profit before tax rose by ₹1,521.96 crore from FY 2022-23 (₹2,273.43 crore) to FY 2023-24 (₹3,795.39 crore).",
+                "Other Comprehensive Income in consolidated statements fluctuated from ₹1,368.65 crore in FY 2022-23 to ₹338.79 crore in FY 2023-24, demonstrating substantial year-over-year volatility."
+    ],
+    "date_added": "30 September 2022"
+    },
+
+    {
+        "company": "Adani Ports and Special Economic Zone Ltd",
+        "history": "India's largest private port operator and logistics company, part of the Adani Group.",
+        "insights": [
+            "Consolidated revenue increased by ₹6,059.54 crore from FY 2022-23 (₹20,851.91 crore) to FY 2023-24 (₹26,710.56 crore), indicating strong sales growth.",
+            "Consolidated profit before tax surged by ₹3,916.90 crore from FY 2022-23 (₹6,712.49 crore) to FY 2023-24 (₹10,629.12 crore), showcasing improved profitability.",
+            "Exceptional items resulted in a significant loss of ₹373.70 crore in FY 2023-24 consolidated figures, contrasting with a smaller loss in the previous year.",
+            "Standalone operations showed a substantial profit increase of ₹2,001.05 crore from FY 2022-23 (₹529.93 crore) to FY 2023-24 (₹2,531.92 crore), despite a moderate revenue rise.",
+            "Other Comprehensive Income in consolidated statements improved significantly from a loss of ₹557.33 crore in FY 2022-23 to a smaller loss of ₹31.45 crore in FY 2023-24."
+        ],
+        "date_added": "28 September 2015"
+    },
+
+    {
+        "company": "Apollo Hospitals Enterprise Ltd",
+        "history": "Established in 1983, it's one of Asia's largest integrated healthcare providers.",
+        "insights": [
+            "Standalone Income from Operations increased by ₹7,490 million from FY 2022-23 (₹65,248 million) to FY 2023-24 (₹72,738 million), indicating revenue growth.",
+            "Consolidated Income from Operations increased by ₹24,467 million from FY 2022-23 (₹166,125 million) to FY 2023-24 (₹190,592 million), demonstrating significant revenue expansion.",
+            "Standalone Profit Before Tax rose by ₹1,011 million from FY 2022-23 (₹12,275 million) to FY 2023-24 (₹13,286 million), showing improved profitability.",
+            "Consolidated Profit Before Tax increased by ₹2,601 million from FY 2022-23 (₹11,437 million) to FY 2023-24 (₹13,606 million), highlighting enhanced profitability on a larger scale.",
+            "Earnings Per Share (EPS) decreased for Standalone from ₹75.45 in FY 2022-23 to ₹70.28 in FY 2023-24, while it increased for Consolidated from ₹56.97 to ₹62.50, indicating mixed performance in shareholder value."
+        ],
+        "date_added": "31 March 2022"
+    },
+
+    {
+        "company": "Asian Paints Ltd",
+        "history": "Founded in 1942, it's India's largest paint company and a leading global decorative paint manufacturer.",
+        "insights": [
+            "Standalone revenue increased by ₹772.64 crore (2.6%) from FY 2022-23 (₹30,078.40 crore) to FY 2023-24 (₹30,850.12 crore), showing modest growth.",
+            "Consolidated EBITDA surged by ₹1,626.62 crore (24.5%) from FY 2022-23 (₹6,646.32 crore) to FY 2023-24 (₹8,272.94 crore), indicating significant operational improvement.",
+            "Standalone profit before tax rose by ₹1,515.49 crore (27.6%) from FY 2022-23 (₹5,489.60 crore) to FY 2023-24 (₹7,005.04 crore), demonstrating strong profitability growth.",
+            "Consolidated profit after tax increased by ₹1,602.34 crore (32.5%) from FY 2022-23 (₹4,193.33 crore) to FY 2023-24 (₹5,557.69 crore), reflecting substantial net income improvement.",
+            "Consolidated Total Comprehensive Income grew by ₹1,381.99 crore (32.8%) from FY 2022-23 (₹4,208.37 crore) to FY 2023-24 (₹5,589.65 crore), indicating strong overall financial performance."
+        ],
+        "date_added": "27 April 2012"
+    },
+
+    {
+        "company": "Axis Bank Ltd",
+        "history": "Established in 1993, it's a major Indian private sector bank offering a wide range of financial services.",
+        "insights": [
+            "Total deposits grew by ₹121,696 crore (13%) from FY 2022-23 to FY 2023-24, indicating strong customer confidence.",
+            "Net profit surged by ₹15,281 crore (160%) from FY 2022-23 to FY 2023-24, demonstrating remarkable profitability improvement.",
+            "Net non-performing assets decreased to 0.31% in FY 2023-24, highlighting enhanced asset quality and reduced credit risk.",
+            "Net profit per employee increased by ₹6.43 lakhs from FY 2022-23 to FY 2023-24, signaling significant productivity gains.",
+            "Operating profit rose by ₹4,074 crore (16%) from FY 2022-23 to FY 2023-24, showcasing improved core operational performance."
+        ],
+        "date_added": "27 March 2009"
+    },
+
+    {
+        "company": "Bajaj Finserv Ltd",
+        "history": "Part of the Bajaj Group, it's a diversified financial services company involved in lending, insurance, and wealth management.",
+        "insights": [
+            "Net Interest Income (NII) increased by ₹6,083 crore (29%) for Standalone and ₹6,993 crore (29%) for Consolidated from FY 2023 to FY 2024, indicating substantial growth in core lending profitability.",
+            "Pre-impairment operating profit rose by ₹4,677 crore (28%) for Standalone and ₹5,217 crore (28%) for Consolidated from FY 2023 to FY 2024, reflecting improved operational efficiency.",
+            "Profit Before Tax (PBT) increased by ₹3,171 crore (23%) for Standalone and ₹3,998 crore (24%) for Consolidated from FY 2023 to FY 2024, demonstrating strong overall profitability growth.",
+            "Profit After Tax (PAT) grew by ₹2,354 crore (23%) for Standalone and ₹2,943 crore (26%) for Consolidated from FY 2023 to FY 2024, showcasing significant net income improvement.",
+            "Earnings Per Share (EPS) basic increased by ₹36.79 for Standalone and ₹36.36 for Consolidated from FY 2023 to FY 2024, indicating enhanced shareholder value."
+        ],
+        "date_added": "2 April 2018"
+    },
+
+    {
+        "company": "Bharat Electronics Limited",
+        "history": "Established in 1954, it's a state-owned aerospace and defense electronics company.",
+        "insights": [
+            "Turnover increased by ₹2,548,656 Lakhs from FY 2022-23 (₹17,333,337 Lakhs) to FY 2023-24 (₹19,811,993 Lakhs), indicating significant revenue growth.",
+            "Profit Before Tax rose by ₹1,344,968 Lakhs from FY 2022-23 (₹3,984,888 Lakhs) to FY 2023-24 (₹5,334,566 Lakhs), demonstrating substantial profitability improvement.",
+            "Profit After Tax increased by ₹1,019,333 Lakhs from FY 2022-23 (₹3,006,667 Lakhs) to FY 2023-24 (₹4,020,000 Lakhs), reflecting strong net income growth.",
+            "Earnings Per Share (EPS) increased by ₹1.39 from FY 2022-23 (₹4.11) to FY 2023-24 (₹5.50), indicating enhanced shareholder value.",
+            "Book Value Per Share increased by ₹3.42 from FY 2022-23 (₹18.58) to FY 2023-24 (₹22.00), showing growth in the company's net assets per share."
+        ],
+        "date_added": "30 September 2024"
+    },
+
+    {
+        "company": "Bharti Airtel Ltd",
+        "history": "Founded in 1995, it's a leading global telecommunications company with operations in Asia and Africa.",
+        "insights": [
+            "Consolidated Gross Revenue increased by ₹108,376 Mn from FY 2022-23 (₹1,391,448 Mn) to FY 2023-24 (₹1,499,824 Mn), indicating significant revenue growth.",
+            "Consolidated EBITDA before exceptional items rose by ₹67,128 Mn from FY 2022-23 (₹717,330 Mn) to FY 2023-24 (₹790,458 Mn), showcasing improved operational profitability.",
+            "Consolidated Profit Before Tax decreased by ₹38,817 Mn from FY 2022-23 (₹165,607 Mn) to FY 2023-24 (₹126,790 Mn), indicating a decline in pre-tax profits.",
+            "Standalone Profit Before Tax increased by ₹83,853 Mn from FY 2022-23 (₹(12,693) Mn) to FY 2023-24 (₹71,161 Mn), showing a turnaround to profitability.",
+            "Standalone Net Income turned positive, increasing by ₹50,778 Mn from FY 2022-23 (₹(896) Mn) to FY 2023-24 (₹49,882 Mn), indicating a recovery to positive net income."
+        ],
+        "date_added": "1 March 2004"
+    },
+
+    {
+        "company": "Cipla Ltd",
+        "history": "Established in 1935, it's an Indian multinational pharmaceutical company known for producing affordable medicines.",
+        "insights": [
+            "Consolidated Gross Total Revenue increased by ₹2,981.05 Crores from FY 2023 (₹22,753.12 Crores) to FY 2024 (₹25,774.09 Crores), showing substantial revenue growth.",
+            "Standalone Profit Before Tax and Exceptional Items from Continuing Operations increased by ₹1,755.47 Crores from FY 2023 (₹3,191.50 Crores) to FY 2024 (₹4,946.97 Crores), indicating significant improvement in core profitability.",
+            "Consolidated Profit for the Year (after tax and attributable to shareholders) from Continuing Operations increased by ₹1,319.54 Crores from FY 2023 (₹2,801.91 Crores) to FY 2024 (₹4,121.55 Crores), demonstrating strong net income growth.",
+            "Standalone Profit for the Year (after tax and attributable to shareholders) from Continuing Operations increased by ₹1,569.13 Crores from FY 2023 (₹2,144.06 Crores) to FY 2024 (₹3,714.19 Crores), reflecting a substantial increase in net income.",
+            "Standalone Surplus Carried Forward increased by ₹2,316.59 Crores from FY 2023 (₹17,534.77 Crores) to FY 2024 (₹19,634.22 Crores), indicating a strengthening of retained earnings."
+        ],
+        "date_added": "7 October 1998"
+    },
+
+    {
+        "company": "Coal India Limited",
+        "history": "Established in 1975, it's a state-owned coal mining company and the world's largest coal producer.",
+        "insights": [
+            "Sales (Gross) increased by ₹6,451.53 Crores from FY 2022-23 (₹187,455.57 Crores) to FY 2023-24 (₹193,907.10 Crores), indicating higher revenue generation.",
+            "Profit Before Tax rose by ₹5,537.91 Crores from FY 2022-23 (₹43,274.60 Crores) to FY 2023-24 (₹48,812.61 Crores), demonstrating improved profitability.",
+            "Profit for the Year increased by ₹5,646.25 Crores from FY 2022-23 (₹31,722.98 Crores) to FY 2023-24 (₹37,369.13 Crores), showing substantial growth in net income.",
+            "Earnings Per Share (EPS) increased by ₹9.15 from FY 2022-23 (₹51.54) to FY 2023-24 (₹60.69), reflecting enhanced shareholder value.",
+            "Net Worth increased by ₹22,088.09 Crores from FY 2022-23 (₹60,822.80 Crores) to FY 2023-24 (₹82,710.91 Crores), indicating a strengthening of the company's equity."
+        ],
+        "date_added": "10 October 2011"
+    },
+
+    {
+        "company": "Dr. Reddy's Laboratories Ltd",
+        "history": "Founded in 1984, it's a multinational Indian pharmaceutical company producing a wide range of pharmaceuticals.",
+        "insights": [
+            "Total Revenues increased by ₹33,285 Mn from FY 2023 (₹245,879 Mn) to FY 2024 (₹279,164 Mn), demonstrating a 14% growth in revenue.",
+            "Gross Profit increased by ₹57,071 Mn from FY 2023 (₹106,536 Mn) to FY 2024 (₹163,607 Mn), showcasing a significant 56.7% improvement in gross profitability.",
+            "Profit Before Income Tax increased by ₹11,366 Mn from FY 2023 (₹15,300 Mn) to FY 2024 (₹26,666 Mn), indicating a 24.6% rise in pre-tax profits.",
+            "Profit for the Period increased by ₹10,617 Mn from FY 2023 (₹45,067 Mn) to FY 2024 (₹55,684 Mn), reflecting a 23.6% growth in net income.",
+            "Diluted Earnings Per Share (EPS) increased by ₹26.16 from FY 2023 (₹270.85) to FY 2024 (₹334.02), demonstrating enhanced shareholder value."
+        ],
+        "date_added": "1 October 2010"
+    },
+
+    {
+        "company": "Eicher Motors Ltd",
+        "history": "Founded in 1948, it's an Indian multinational automobile company and the parent company of Royal Enfield.",
+        "insights": [
+            "Net Revenue from operations increased by ₹2,011.52 Crores from FY 2023 (₹14,066.64 Crores) to FY 2024 (₹16,078.16 Crores), indicating significant revenue growth.",
+            "Profit Before Tax rose by ₹1,461.74 Crores from FY 2023 (₹3,508.32 Crores) to FY 2024 (₹4,970.02 Crores), showing a substantial increase in pre-tax profitability.",
+            "Net Profit after Tax increased by ₹1,126.63 Crores from FY 2023 (₹2,622.59 Crores) to FY 2024 (₹3,749.42 Crores), demonstrating strong net income growth.",
+            "Earnings Per Share (Basic) increased by ₹41.07 from FY 2023 (₹95.91) to FY 2024 (₹136.98), indicating enhanced shareholder value.",
+            "Dividend Proposed for FY 2023-24 is ₹1,396.41 Crores, a significant increase from the dividend of ₹1,012.87 Crores for FY 2022-23, paid in FY 2023-24, reflecting higher dividend payout."
+        ],
+        "date_added": "1 April 2016"
+    },
+
+    {
+        "company": "Grasim Industries Ltd",
+        "history": "Established in 1948, it's an Indian manufacturing company and a subsidiary of the Aditya Birla Group, with interests in cement, chemicals, and textiles.",
+        "insights": [
+            "Consolidated Revenue from Operations increased by ₹13,350.40 Crores from FY 2022-23 (₹1,176,27.08 Crores) to FY 2023-24 (₹1,309,78.48 Crores), indicating significant revenue growth.",
+            "Consolidated Profit Before Tax (PBT) decreased by ₹1,066.82 Crores from FY 2022-23 (₹14,726.71 Crores) to FY 2023-24 (₹13,659.81 Crores), showing a decline in pre-tax profitability.",
+            "Standalone Profit Before Tax (PBT) decreased by ₹1,443.27 Crores from FY 2022-23 (₹2,645.24 Crores) to FY 2023-24 (₹1,201.56 Crores), indicating a substantial reduction in standalone pre-tax profits.",
+            "Consolidated Total Comprehensive Income for the Year Attributable to the Shareholders increased by ₹6,195.17 Crores from FY 2022-23 (₹3,723.03 Crores) to FY 2023-24 (₹9,517.88 Crores), demonstrating strong growth in comprehensive income.",
+            "Standalone Closing Balance in Retained Earnings increased by ₹1,037.59 Crores from FY 2022-23 (₹9,476.76 Crores) to FY 2023-24 (₹10,113.35 Crores), indicating a growth in retained earnings."
+        ],
+        "date_added": "2 April 2018"
+    },
+
+    {
+        "company": "HCL Technologies Ltd",
+        "history": "Founded in 1976, it's an Indian multinational IT services and consulting company.",
+        "insights": [
+            "Total Income increased by ₹8,594 Crores (8.4%) from FY 2023 (₹102,814 Crores) to FY 2024 (₹111,408 Crores), indicating significant revenue growth.",
+            "Employee Benefits Expense increased by ₹6,200 Crores (11.2%) from FY 2023 (₹55,280 Crores) to FY 2024 (₹62,480 Crores), showing substantial growth in employee costs.",
+            "Total Expenses increased by ₹7,115 Crores (8.5%) from FY 2023 (₹83,326 Crores) to FY 2024 (₹90,441 Crores), reflecting a rise in overall operational costs.",
+            "Profit Before Tax increased by ₹1,479 Crores (7.6%) from FY 2023 (₹19,488 Crores) to FY 2024 (₹20,967 Crores), demonstrating improved pre-tax profitability.",
+            "Profit After Tax increased by ₹865 Crores (5.8%) from FY 2023 (₹14,845 Crores) to FY 2024 (₹15,710 Crores), indicating growth in net income."
+        ],
+        "date_added": "28 October 2002"
+    },
+
+    {
+        "company": "HDFC Bank Ltd",
+        "history": "Established in 1994, it's a major Indian banking and financial services company.",
+        "insights": [
+            "Advances increased by ₹884,302.4 Crores from FY 2023 (₹1,600,585.9 Crores) to FY 2024 (₹2,484,861.5 Crores), demonstrating significant growth in lending.",
+            "Total Income increased by ₹114,777.2 Crores from FY 2023 (₹192,800.4 Crores) to FY 2024 (₹307,581.6 Crores), indicating substantial revenue growth.",
+            "Profit After Tax increased by ₹16,703.6 Crores from FY 2023 (₹44,108.7 Crores) to FY 2024 (₹60,812.3 Crores), showcasing significant net income growth.",
+            "Transfer to Statutory Reserve increased by ₹4,175.6 Crores from FY 2023 (₹11,027.2 Crores) to FY 2024 (₹15,203.1 Crores), reflecting a substantial increase in reserve requirements.",
+            "Balance Carried over to Balance Sheet increased by ₹26,639.9 Crores from FY 2023 (₹112,960.0 Crores) to FY 2024 (₹139,579.9 Crores), indicating a growth in retained earnings."
+        ],
+        "date_added": "22 April 1996"
+    },
+
+    {
+        "company": "HDFC Life Insurance Company Ltd",
+        "history": "Established in 2000, it's a leading long-term life insurance provider in India.",
+        "insights": [
+            "Premiums Earned (net) increased by ₹42,952,176,000 from FY 2023 (₹575,334,245,000) to FY 2024 (₹619,592,204,000), showing significant growth in net premiums.",
+            "Income from Investments increased by ₹257,568,131,000 from FY 2023 (₹125,975,238,000) to FY 2024 (₹383,543,089,000), indicating a substantial rise in investment income.",
+            "Total (A) (Total Income) increased by ₹295,498,380,000 from FY 2023 (₹707,054,441,000) to FY 2024 (₹1,002,742,821,000), reflecting a significant growth in overall income.",
+            "Benefits Paid (Net) increased by ₹90,003,788,000 from FY 2023 (₹368,331,966,000) to FY 2024 (₹458,335,754,000), indicating a rise in claim payouts.",
+            "Surplus/ (Deficit) (D) decreased by ₹6,037,322,000 from FY 2023 (₹13,588,787,000) to FY 2024 (₹7,751,465,000), showing a reduction in the surplus."
+        ],
+        "date_added": "31 July 2020"
+    },
+
+    {
+        "company": "Hero MotoCorp Ltd",
+        "history": "Founded in 1984, it's the world's largest manufacturer of two-wheelers, based in India.",
+        "insights": [
+            "Consolidated Total Income increased by ₹1,916.81 Crores from FY 2023 (₹34,727.39 Crores) to FY 2024 (₹36,643.16 Crores), showing revenue growth.",
+            "Standalone Profit before Finance Cost and Depreciation increased by ₹1,796.87 Crores from FY 2023 (₹4,351.39 Crores) to FY 2024 (₹6,148.26 Crores), indicating improved operational profitability.",
+            "Consolidated Profit from ordinary activities before tax increased by ₹1,227.80 Crores from FY 2023 (₹3,863.62 Crores) to FY 2024 (₹5,090.20 Crores), showing substantial pre-tax profit growth.",
+            "Standalone Net Profit from ordinary activities after tax increased by ₹1,004.58 Crores from FY 2023 (₹2,963.98 Crores) to FY 2024 (₹3,967.96 Crores), indicating a significant rise in net income.",
+            "Earnings per equity share on Net Profit from ordinary activities after tax (Basic) increased by ₹21.69 from FY 2023 (₹165.66) to FY 2024 (₹187.36), reflecting enhanced shareholder value."
+        ],
+        "date_added": "7 October 1998"
+    },
+
+    {
+        "company": "Hindalco Industries Ltd",
+        "history": "Established in 1958, it's an Indian aluminium and copper manufacturing company and a subsidiary of the Aditya Birla Group.",
+        "insights": [
+            "Hindalco Consolidated Revenue from Operations increased by ₹19,779 Crores from FY 2022-23 (₹2,232,023 Crores) to FY 2023-24 (₹2,159,623 Crores), indicating a decrease in revenue.",
+            "Hindalco Consolidated Total EBITDA increased by ₹1,597 Crores from FY 2022-23 (₹24,131 Crores) to FY 2023-24 (₹25,728 Crores), showing an improvement in operational profitability.",
+            "Hindalco Consolidated Profit Before Tax increased by ₹1,771 Crores from FY 2022-23 (₹13,241 Crores) to FY 2023-24 (₹14,012 Crores), indicating growth in pre-tax profits.",
+            "Hindalco Consolidated Profit After Tax increased by ₹6,110 Crores from FY 2022-23 (₹10,045 Crores) to FY 2023-24 (₹16,155 Crores), demonstrating a significant rise in net income.",
+            "Hindalco Consolidated Total Comprehensive Income for the Year increased by ₹(5,511) Crores from FY 2022-23 (₹17,557 Crores) to FY 2023-24 (₹12,085 Crores), showing a decrease in comprehensive income."
+        ],
+        "date_added": "22 April 1996"
+    },
+
+    {
+        "company": "Hindustan Unilever Ltd",
+        "history": "Established in 1933, it's India's largest fast-moving consumer goods company and a subsidiary of Unilever.",
+        "insights": [
+            "Turnover increased by ₹1,425 Crores from FY 2023 (₹58,154 Crores) to FY 2024 (₹59,579 Crores), showing a slight growth in revenue.",
+            "Profit Before Exceptional Items and Tax increased by ₹623 Crores from FY 2023 (₹13,141 Crores) to FY 2024 (₹13,764 Crores), indicating improved pre-tax profitability.",
+            "Profit for the Year increased by ₹152 Crores from FY 2023 (₹9,962 Crores) to FY 2024 (₹10,114 Crores), showing a marginal rise in net income.",
+            "Basic EPS (Earnings Per Share) increased by ₹0.65 from FY 2023 (₹42.40) to FY 2024 (₹43.05), indicating a slight increase in shareholder value.",
+            "Debt Equity Ratio decreased from 0.8 in FY 2023 to 0.7 in FY 2024, indicating a reduction in financial leverage."
+        ],
+        "date_added": "22 April 1996"
+    },
+
+    {
+        "company": "ICICI Bank Ltd",
+        "history": "Established in 1994, it's a leading Indian private sector bank offering a wide range of banking products and financial services.",
+        "insights": [
+            "Net interest income and non-interest income increased by ₹152.43 billion from Fiscal 2023 (₹820.12 billion) to Fiscal 2024 (₹972.55 billion), showing a significant 18.6% growth.",
+            "Profit before tax excluding treasury gains increased by ₹120.06 billion from Fiscal 2023 (₹424.73 billion) to Fiscal 2024 (₹544.79 billion), indicating a 28.3% rise in core profitability.",
+            "Profit before tax increased by ₹120.67 billion from Fiscal 2023 (₹424.21 billion) to Fiscal 2024 (₹544.88 billion), demonstrating a 28.4% growth in pre-tax profits.",
+            "Profit after tax increased by ₹89.92 billion from Fiscal 2023 (₹318.96 billion) to Fiscal 2024 (₹408.88 billion), reflecting a 28.2% increase in net income.",
+            "Consolidated profit after tax and minority interest increased by ₹102.21 billion from Fiscal 2023 (₹340.37 billion) to Fiscal 2024 (₹442.56 billion), showing a 30.0% growth in net consolidated income."
+        ],
+        "date_added": "25 January 2002"
+    },
+
+    {
+        "company": "IndusInd Bank Ltd",
+        "history": "Established in 1994, it's a major Indian private sector bank offering a wide range of banking products and services.",
+        "insights": [
+            "Deposits increased by ₹48,491,950,000 from March 31, 2023 (₹336,438,136,700) to March 31, 2024 (₹384,929,167,000), indicating substantial growth in customer deposits.",
+            "Advances increased by ₹53,975,593,000 from March 31, 2023 (₹289,923,682,700) to March 31, 2024 (₹343,298,274,000), showing significant growth in lending activities.",
+            "Reserves and Surplus increased by ₹8,114,666,000 from March 31, 2023 (₹53,801,450,400) to March 31, 2024 (₹61,915,271,600), reflecting a strengthening of the bank's capital reserves.",
+            "Employee Stock Options Outstanding increased by ₹59,229,220,000 from March 31, 2023 (₹44,322,900,000) to March 31, 2024 (₹103,551,510,000), indicating a significant increase in employee stock-based compensation.",
+            "Total Assets increased by ₹56,130,704,000 from March 31, 2023 (₹457,804,054,000) to March 31, 2024 (₹514,935,144,800), reflecting overall balance sheet expansion."
+        ],
+        "date_added": "1 April 2013"
+    },
+
+    {
+        "company": "Infosys Ltd",
+        "history": "Established in 1981, it's a global leader in next-generation digital services and consulting.",
+        "insights": [
+            "Consolidated Total Assets increased by ₹12,989 Crores from March 31, 2023 (₹1,258,160 Crores) to March 31, 2024 (₹1,378,140 Crores), indicating significant growth in the company's asset base.",
+            "Consolidated Profit for the Year increased by ₹2,138 Crores from March 31, 2023 (₹24,095 Crores) to March 31, 2024 (₹26,233 Crores), reflecting improved profitability.",
+            "Standalone Total Assets increased by ₹13,613 Crores from March 31, 2023 (₹1,013,370 Crores) to March 31, 2024 (₹1,149,500 Crores), showing substantial growth in standalone assets.",
+            "Standalone Profit for the Year increased by ₹3,966 Crores from March 31, 2023 (₹23,268 Crores) to March 31, 2024 (₹27,234 Crores), demonstrating significant improvement in standalone profitability.",
+            "Consolidated Retained Earnings - Closing Balance increased by ₹2,538 Crores from March 31, 2023 (₹68,405 Crores) to March 31, 2024 (₹58,957 Crores), indicating a decrease in retained earnings."
+        ],
+        "date_added": "7 October 1998"
+    },
+
+    {
+        "company": "ITC Ltd",
+        "history": "Established in 1910, it's a diversified Indian conglomerate with interests in FMCG, hotels, paperboards, and agriculture.",
+        "insights": [
+            "Profit Before Exceptional Items and Tax increased by ₹1,649.8 Crores from FY 2022-23 (₹24,677.54 Crores) to FY 2023-24 (₹26,323.34 Crores), indicating improved pre-tax profitability.",
+            "Profit for the Year increased by ₹1,668.66 Crores from FY 2022-23 (₹18,753.31 Crores) to FY 2023-24 (₹20,421.97 Crores), demonstrating growth in net income.",
+            "Total Comprehensive Income increased by ₹4,277.46 Crores from FY 2022-23 (₹18,782.57 Crores) to FY 2023-24 (₹22,703.03 Crores), showing a substantial rise in overall income.",
+            "Dividends paid increased significantly, with a Special Dividend of ₹3,417.7 Crores declared in FY 2023-24, compared to no Special Dividend in FY 2022-23.",
+            "Retained Earnings at the End of the Year increased by ₹780.4 Crores from FY 2022-23 (₹33,687.7 Crores) to FY 2023-24 (₹34,488.1 Crores), reflecting a growth in retained profits."
+        ],
+        "date_added": "22 April 1996"
+    },
+
+    {
+        "company": "Jio Financial Services Ltd",
+        "history": "Newly demerged from Reliance Industries, it focuses on providing digital financial services.",
+        "insights": [
+            "Cash and bank balances decreased by ₹659.67 Crores from FY 2023 (₹5,249.87 Crores) to FY 2024 (₹4,590.20 Crores), indicating a reduction in liquid assets.",
+            "Net worth increased by ₹382.17 Crores from FY 2023 (₹24,054.25 Crores) to FY 2024 (₹24,436.81 Crores), showing a growth in the company's equity.",
+            "Total income increased significantly by ₹1,809.84 Crores from FY 2023 (₹44.84 Crores) to FY 2024 (₹1,854.68 Crores), indicating a substantial rise in revenue.",
+            "Profit before tax increased dramatically by ₹1,906.55 Crores from FY 2023 (₹49.34 Crores) to FY 2024 (₹1,955.89 Crores), showing a massive improvement in pre-tax profitability.",
+            "Profit after tax increased substantially by ₹1,573.3 Crores from FY 2023 (₹31.25 Crores) to FY 2024 (₹1,604.55 Crores), demonstrating a significant growth in net income."
+        ],
+        "date_added": "28 March 2025"
+    },
+
+    {
+        "company": "JSW Steel Ltd",
+        "history": "Part of the JSW Group, it's a leading integrated steel manufacturer in India.",
+        "insights": [
+            "Consolidated Total Income increased by ₹10,432 Crores from FY 2022-23 (₹165,960 Crores) to FY 2023-24 (₹176,392 Crores), indicating growth in overall revenue.",
+            "Consolidated Profit Before Tax increased by ₹7,627 Crores from FY 2022-23 (₹5,064 Crores) to FY 2023-24 (₹12,691 Crores), demonstrating significant improvement in pre-tax profitability.",
+            "Standalone Profit Before Tax increased by ₹5,173 Crores from FY 2022-23 (₹6,968 Crores) to FY 2023-24 (₹12,141 Crores), showing a substantial rise in standalone pre-tax profits.",
+            "Standalone Total Comprehensive Income for the Year Attributable to the Owners of the Company increased by ₹7,141 Crores from FY 2022-23 (₹1,800 Crores) to FY 2023-24 (₹8,941 Crores), reflecting a significant increase in comprehensive income.",
+            "Consolidated Total Comprehensive Income for the Year Attributable to the Owners of the Company increased by ₹6,604 Crores from FY 2022-23 (₹4,144 Crores) to FY 2023-24 (₹10,748 Crores), demonstrating strong growth in consolidated comprehensive income."
+        ],
+        "date_added": "28 September 2018"
+    },
+
+    {
+        "company": "Kotak Mahindra Bank Ltd",
+        "history": "Established in 1985, it's a leading Indian private sector bank offering a wide range of financial services.",
+        "insights": [
+            "Total Income increased by ₹26,131.88 Crores from FY 2022-23 (₹68,142.03 Crores) to FY 2023-24 (₹94,273.91 Crores), indicating substantial revenue growth.",
+            "Consolidated Profit After Tax increased by ₹3,196.22 Crores from FY 2022-23 (₹14,780.44 Crores) to FY 2023-24 (₹17,976.83 Crores), demonstrating growth in net income.",
+            "Standalone Total Income increased by ₹14,672.01 Crores from FY 2022-23 (₹41,399.99 Crores) to FY 2023-24 (₹56,072.01 Crores), showing a significant rise in revenue.",
+            "Standalone Profit Before Tax increased by ₹4,622.03 Crores from FY 2022-23 (₹14,390.99 Crores) to FY 2023-24 (₹18,013.72 Crores), indicating a substantial improvement in pre-tax profitability.",
+            "Standalone Surplus Carried to Balance Sheet increased by ₹7,343.98 Crores from FY 2022-23 (₹37,760.09 Crores) to FY 2023-24 (₹45,103.02 Crores), reflecting a growth in retained earnings."
+        ],
+        "date_added": "8 April 2010"
+    },
+
+    {
+        "company": "Larsen & Toubro Ltd",
+        "history": "Established in 1938, it's an Indian multinational conglomerate involved in engineering, construction, manufacturing, and financial services.",
+        "insights": [
+            "Total Assets increased by ₹2,858.25 Crores from March 31, 2023 (₹172,424.49 Crores) to March 31, 2024 (₹175,282.69 Crores), indicating overall balance sheet expansion.",
+            "Current Assets increased by ₹1,291.82 Crores from March 31, 2023 (₹122,199.57 Crores) to March 31, 2024 (₹123,491.34 Crores), showing a rise in short-term assets.",
+            "Non-current Investments increased by ₹3,192.10 Crores from March 31, 2023 (₹27,036.97 Crores) to March 31, 2024 (₹30,228.77 Crores), reflecting growth in long-term investments.",
+            "Current Investments increased by ₹6,388.95 Crores from March 31, 2023 (₹20,224.29 Crores) to March 31, 2024 (₹16,813.34 Crores), indicating a decrease in short-term investments.",
+            "Trade Receivables increased by ₹3,809.03 Crores from March 31, 2023 (₹33,152.58 Crores) to March 31, 2024 (₹36,961.55 Crores), showing a growth in amounts owed by customers."
+        ],
+        "date_added": "10 December 2004"
+    },
+
+    {
+        "company": "Mahindra & Mahindra Ltd",
+        "history": "Established in 1945, it's a major Indian multinational automotive manufacturing company.",
+        "insights": [
+            "Consolidated Revenue from Operations increased by ₹16,610.55 Crores from 2023 (₹1,212.685.55 Crores) to 2024 (₹1,382.793.00 Crores), indicating significant revenue growth.",
+            "Consolidated Profit before Tax increased by ₹3,917.97 Crores from 2023 (₹14,060.23 Crores) to 2024 (₹17,977.79 Crores), demonstrating improved pre-tax profitability.",
+            "Standalone Profit before Tax increased by ₹3,847.45 Crores from 2023 (₹9,560.32 Crores) to 2024 (₹13,482.97 Crores), showing substantial growth in standalone pre-tax profits.",
+            "Consolidated Profit for the year attributable to Owners of the Company increased by ₹986.17 Crores from 2023 (₹10,281.50 Crores) to 2024 (₹11,268.64 Crores), reflecting a rise in net income.",
+            "Standalone Retained Earnings carried forward increased by ₹8,609.10 Crores from 2023 (₹37,478.03 Crores) to 2024 (₹46,309.13 Crores), indicating growth in retained profits."
+        ],
+        "date_added": "18 September 1996"
+    },
+
+    {
+        "company": "Nestle India Ltd",
+        "history": "A subsidiary of Nestle S.A., it's a leading food and beverage company in India.",
+        "insights": [
+            "Total Income increased by ₹75,438.3 million from FY 2022 (₹169,979.6 million) to FY 2024 (₹245,418.5 million), indicating substantial revenue growth.",
+            "Profit before tax increased by ₹20,329.2 million from FY 2022 (₹32,559.7 million) to FY 2024 (₹52,888.7 million), demonstrating significant improvement in pre-tax profitability.",
+            "Profit after tax increased by ₹15,423.4 million from FY 2022 (₹23,905.2 million) to FY 2024 (₹39,328.4 million), reflecting a significant rise in net income.",
+            "Closing Balance in Retained Earnings increased by ₹16,889.3 million from FY 2022 (₹15,144.3 million) to FY 2024 (₹32,336.2 million), indicating a substantial growth in retained profits.",
+            "Earnings per share increased by ₹16.0 from FY 2022 (₹24.79) to FY 2024 (₹40.79), demonstrating enhanced shareholder value."
+        ],
+        "date_added": "27 September 2019"
+    },
+
+    {
+        "company": "NTPC Ltd",
+        "history": "Established in 1975, it's India's largest energy conglomerate, primarily involved in electricity generation.",
+        "insights": [
+            "Consolidated Profit Before Tax increased by ₹2,810.86 Crores from FY 2022-23 (₹24,330.59 Crores) to FY 2023-24 (₹27,141.45 Crores), demonstrating improved pre-tax profitability.",
+            "Standalone Profit Before Tax increased by ₹1,538.08 Crores from FY 2022-23 (₹24,067.09 Crores) to FY 2023-24 (₹23,545.17 Crores), indicating a decrease in standalone pre-tax profits.",
+            "Consolidated Profit for the Year increased by ₹4,101.83 Crores from FY 2022-23 (₹17,121.35 Crores) to FY 2023-24 (₹21,223.18 Crores), showing substantial growth in net income.",
+            "Standalone Profit for the Year increased by ₹3,113.88 Crores from FY 2022-23 (₹17,196.73 Crores) to FY 2023-24 (₹18,079.39 Crores), reflecting an increase in standalone net income.",
+            "Consolidated Earnings per share (basic and diluted) increased by ₹2.82 from FY 2022-23 (₹17.44) to FY 2023-24 (₹21.46), indicating enhanced shareholder value."
+        ],
+        "date_added": "24 September 2007"
+    },
+
+    {
+        "company": "Reliance Industries Ltd",
+        "history": "Founded in 1966, it's India's largest private sector company, with diverse interests including petrochemicals, refining, telecom, and retail.",
+        "insights": [
+            "Total Assets increased by ₹336,400,000 from March 31, 2023 (₹9,224,900,000) to March 31, 2024 (₹9,561,300,000), indicating growth in the company's asset base.",
+            "Total Equity increased by ₹344,010,000 from March 31, 2023 (₹4,790,780,000) to March 31, 2024 (₹5,150,090,000), showing an increase in the company's net worth.",
+            "Total Non-Current Liabilities increased by ₹289,800,000 from March 31, 2023 (₹1,741,950,000) to March 31, 2024 (₹2,045,530,000), reflecting a rise in long-term liabilities.",
+            "Total Current Assets increased by ₹181,990,000 from March 31, 2023 (₹2,851,460,000) to March 31, 2024 (₹3,033,450,000), indicating a growth in short-term assets.",
+            "Total Current Liabilities increased by ₹36,130,000 from March 31, 2023 (₹2,401,010,000) to March 31, 2024 (₹2,437,140,000), showing a slight increase in short-term liabilities."
+        ],
+        "date_added": "22 April 1996"
+    },
+
+    {
+        "company": "SBI Life Insurance Company Ltd",
+        "history": "A joint venture between State Bank of India and BNP Paribas Cardif, it's a leading life insurance provider in India.",
+        "insights": [
+            "Total Income increased by ₹510.9 Billion from FY 2023 (₹815.86 Billion) to FY 2024 (₹1,326.53 Billion), indicating substantial revenue growth.",
+            "Income from Investments increased by ₹371.4 Billion from FY 2023 (₹132.48 Billion) to FY 2024 (₹503.88 Billion), showing a significant rise in investment income.",
+            "Total Expenses increased by ₹480.5 Billion from FY 2023 (₹817.8 Billion) to FY 2024 (₹1,298.6 Billion), reflecting a large increase in overall expenses.",
+            "Change in valuation of liability in respect of life policies increased by ₹373.9 Billion from FY 2023 (₹41.04 Billion) to FY 2024 (₹784.31 Billion), indicating a significant increase in liability valuation.",
+            "Gross Written Premium increased by ₹141.28 Billion from FY 2023 (₹673.16 Billion) to FY 2024 (₹814.31 Billion), showing a notable growth in premium collection."
+        ],
+        "date_added": "25 September 2020"
+    },
+
+    {
+        "company": "Shriram Finance Ltd",
+        "history": "A leading non-banking financial company focused on commercial vehicle financing and other retail lending.",
+        "insights": [
+            "Profit Before Tax increased by ₹1,488.75 Crores from FY 2022-23 (₹8,184.89 Crores) to FY 2023-24 (₹9,683.64 Crores), indicating improved pre-tax profitability.",
+            "Profit After Tax increased by ₹1,211.14 Crores from FY 2022-23 (₹5,979.34 Crores) to FY 2023-24 (₹7,190.48 Crores), demonstrating growth in net income.",
+            "Balance carried to Balance Sheet increased by ₹3,401.58 Crores from FY 2022-23 (₹15,623.21 Crores) to FY 2023-24 (₹19,025.20 Crores), reflecting a growth in retained earnings.",
+            "Depreciation, amortization and impairment increased by ₹44.65 Crores from FY 2022-23 (₹524.18 Crores) to FY 2023-24 (₹568.83 Crores), indicating a rise in non-cash expenses.",
+            "Dividend on equity shares increased by ₹1,314.58 Crores from FY 2022-23 (₹561.64 Crores) to FY 2023-24 (₹1,876.22 Crores), showing a substantial increase in dividend payout."
+        ],
+        "date_added": "28 March 2024"
+    },
+
+    {
+        "company": "State Bank of India",
+        "history": "India's largest public sector bank, with a long history tracing back to the Bank of Calcutta in 1806.",
+        "insights": [
+            "Deposits increased by ₹48,289,010,000,000 from March 31, 2023 (₹442,377,777,630,000) to March 31, 2024 (₹491,607,676,930,000), indicating substantial growth in customer deposits.",
+            "Advances increased by ₹50,999,010,000,000 from March 31, 2023 (₹319,926,929,680,000) to March 31, 2024 (₹370,939,708,540,000), showing significant growth in lending activities.",
+            "Reserves & Surplus increased by ₹9,886,227,500,000 from March 31, 2023 (₹326,715,987,700,000) to March 31, 2024 (₹376,354,072,500,000), reflecting a strengthening of the bank's capital reserves.",
+            "Total Assets increased by ₹65,165,122,000,000 from March 31, 2023 (₹5,516,978,526,500,000) to March 31, 2024 (₹6,179,693,945,000,000), indicating overall balance sheet expansion.",
+            "Contingent Liabilities increased by ₹57,256,760,000,000 from March 31, 2023 (₹1,826,574,124,300,000) to March 31, 2024 (₹2,399,141,784,300,000), showing a significant rise in potential liabilities."
+        ],
+        "date_added": "22 April 1996"
+    },
+
+    {
+        "company": "Sun Pharmaceutical Industries Ltd",
+        "history": "Founded in 1983, it's a multinational pharmaceutical company based in India.",
+        "insights": [
+            "Total Assets increased by ₹1,030.15 Million from March 31, 2023 (₹409,874.9 Million) to March 31, 2024 (₹410,647.9 Million), indicating a marginal growth in the company's asset base.",
+            "Total Non-current Assets increased by ₹14,535.5 Million from March 31, 2023 (₹245,223.4 Million) to March 31, 2024 (₹261,103.8 Million), reflecting an increase in long-term assets.",
+            "Total Current Assets decreased by ₹35,172.1 Million from March 31, 2023 (₹164,437.5 Million) to March 31, 2024 (₹149,125.4 Million), showing a decline in short-term assets.",
+            "Loans (Financial Assets) decreased by ₹29,660.0 Million from March 31, 2023 (₹33,869.0 Million) to March 31, 2024 (₹6,555.1 Million), indicating a substantial reduction in loan portfolio.",
+            "Trade Receivables increased by ₹16,215.6 Million from March 31, 2023 (₹71,250.2 Million) to March 31, 2024 (₹88,341.6 Million), showing a growth in amounts owed by customers."
+        ],
+        "date_added": "17 January 2002"
+    },
+
+    {
+        "company": "Tata Consultancy Services Ltd",
+        "history": "Part of the Tata Group, it's a global leader in IT services, consulting, and business solutions.",
+        "insights": [
+            "Consolidated Total Income increased by ₹16,338 Crores from FY 2022-23 (₹2,289,079 Crores) to FY 2023-24 (₹2,453,150 Crores), indicating significant revenue growth.",
+            "Standalone Profit Before Tax increased by ₹6,912 Crores from FY 2022-23 (₹51,690 Crores) to FY 2023-24 (₹57,602 Crores), showing a substantial improvement in pre-tax profitability.",
+            "Consolidated Profit for the Year increased by ₹3,796 Crores from FY 22-23 (₹42,303 Crores) to FY 23-24 (₹46,099 Crores), reflecting growth in net income.",
+            "Standalone Closing Balance of Retained Earnings decreased by ₹7,095 Crores from FY 2022-23 (₹62,228 Crores) to FY 2023-24 (₹55,173 Crores), indicating a reduction in retained profits.",
+            "Consolidated Closing Balance of Retained Earnings decreased by ₹4,726 Crores from FY 2022-23 (₹74,722 Crores) to FY 2023-24 (₹70,033 Crores), showing a decline in retained profits."
+        ],
+        "date_added": "25 February 2005"
+    },
+
+    {
+        "company": "Tata Motors Ltd",
+        "history": "Part of the Tata Group, it's a multinational automotive manufacturing company.",
+        "insights": [
+            "Consolidated Revenue from Operations increased by ₹91,960.81 Crores from FY 2023 (₹345,966.97 Crores) to FY 2024 (₹437,927.77 Crores), demonstrating substantial revenue growth.",
+            "Consolidated Profit Before Tax increased by ₹24,057.29 Crores from FY 2023 (₹3,393.50 Crores) to FY 2024 (₹27,955.11 Crores), showing a significant improvement in pre-tax profitability.",
+            "Standalone Profit Before Tax increased by ₹6,606.02 Crores from FY 2023 (₹1,254.80 Crores) to FY 2024 (₹7,850.82 Crores), indicating a substantial rise in standalone pre-tax profits.",
+            "Consolidated Profit for the Year increased by ₹28,995.78 Crores from FY 2023 (₹2,689.87 Crores) to FY 2024 (₹31,806.75 Crores), demonstrating significant growth in net income.",
+            "Consolidated Total Other Comprehensive Income/(loss) for the year increased by ₹37,386.03 Crores from FY 2023 (₹774.54 Crores) to FY 2024 (₹38,130.67 Crores), showing a significant improvement in comprehensive income."
+        ],
+        "date_added": "22 April 1996"
+    },
+
+    {
+        "company": "Tata Steel Ltd",
+        "history": "Part of the Tata Group, it's one of the world's most geographically diversified steel producers.",
+        "insights": [
+            "Tata Steel Consolidated Revenue from Operations increased by ₹11,399.51 Crores from FY 2022-23 (₹243,352.69 Crores) to FY 2023-24 (₹229,170.78 Crores), indicating a decrease in revenue.",
+            "Tata Steel Consolidated Profit Before Tax increased by ₹1,438.92 Crores from FY 2022-23 (₹18,121.86 Crores) to FY 2023-24 (₹16,607.18 Crores), indicating a decrease in pre-tax profits.",
+            "Tata Steel Standalone Profit Before Tax increased by ₹1,996.11 Crores from FY 2022-23 (₹20,870.17 Crores) to FY 2023-24 (₹22,807.83 Crores), reflecting an increase in standalone pre-tax profits.",
+            "Tata Steel Consolidated Profit/(Loss) After Tax decreased by ₹13,184.23 Crores from FY 2022-23 (₹8,075.35 Crores) to FY 2023-24 (₹(4,909.61) Crores), showing a significant decline in consolidated net profits.",
+            "Tata Steel Standalone Retained Earnings: Balance to be carried forward decreased by ₹10,488.75 Crores from FY 2022-23 (₹86,727.36 Crores) to FY 2023-24 (₹86,491.20 Crores), indicating a decrease in retained earnings."
+        ],
+        "date_added": "22 April 1996"
+    },
+
+    {
+        "company": "Tech Mahindra Ltd",
+        "history": "Part of the Mahindra Group, it's a leading IT services and consulting company.",
+        "insights": [
+            "Income decreased by ₹4,338 Million from FY 2023 (₹437,856 Million) to FY 2024 (₹433,518 Million), indicating a slight decline in revenue.",
+            "Profit Before Tax decreased significantly by ₹23,394 Million from FY 2023 (₹49,041 Million) to FY 2024 (₹25,647 Million), demonstrating a substantial drop in pre-tax profitability.",
+            "Profit After Tax decreased substantially by ₹16,489 Million from FY 2023 (₹37,775 Million) to FY 2024 (₹21,286 Million), reflecting a significant decline in net income.",
+            "Equity Dividends decreased by ₹3,803 Million from FY 2023 (₹46,705 Million) to FY 2024 (₹42,902 Million), indicating a reduction in dividend payouts.",
+            "Balance carried forward decreased by ₹17,395 Million from FY 2023 (₹214,462 Million) to FY 2024 (₹197,067 Million), showing a decline in retained earnings."
+        ],
+        "date_added": "28 March 2014"
+    },
+
+    {
+        "company": "Titan Company Ltd",
+        "history": "Part of the Tata Group, it's a leading manufacturer of watches, jewelry, and eyewear.",
+        "insights": [
+            "Consolidated Total Income increased by ₹10,734 Crores from FY 2022-23 (₹40,883 Crores) to FY 2023-24 (₹51,617 Crores), demonstrating significant revenue growth.",
+            "Standalone Profit Before Tax increased by ₹142 Crores from FY 2022-23 (₹4,465 Crores) to FY 2023-24 (₹4,607 Crores), showing a slight improvement in pre-tax profitability.",
+            "Consolidated Profit Before Tax increased by ₹176 Crores from FY 2022-23 (₹4,447 Crores) to FY 2023-24 (₹4,623 Crores), indicating a marginal increase in pre-tax profits.",
+            "Standalone Profit for the Year increased by ₹211 Crores from FY 2022-23 (₹3,333 Crores) to FY 2023-24 (₹3,544 Crores), showing a modest growth in net income.",
+            "Consolidated Closing Balance in Retained Earnings decreased by ₹2,193 Crores from FY 2022-23 (₹8,612 Crores) to FY 2023-24 (₹6,419 Crores), indicating a reduction in retained profits."
+        ],
+        "date_added": "2 April 2018"
+    },
+
+    {
+        "company": "Trent Ltd",
+        "history": "Part of the Tata Group, it's a retail company operating department stores and hypermarkets.",
+        "insights": [
+            "Consolidated Revenue from Operations increased by ₹4,133.72 Crores from FY 2022-23 (₹8,242.02 Crores) to FY 2023-24 (₹12,375.11 Crores), demonstrating significant revenue growth.",
+            "Standalone Profit/ (Loss) before tax increased by ₹1,162.81 Crores from FY 2022-23 (₹710.51 Crores) to FY 2023-24 (₹1,873.32 Crores), showing substantial improvement in pre-tax profitability.",
+            "Consolidated Profit/ (Loss) before tax increased by ₹1,368.73 Crores from FY 2022-23 (₹552.07 Crores) to FY 2023-24 (₹1,920.83 Crores), reflecting a significant rise in consolidated pre-tax profits.",
+            "Standalone Profit/ (Loss) for the year increased by ₹881.28 Crores from FY 2022-23 (₹554.57 Crores) to FY 2023-24 (₹1,435.82 Crores), indicating a substantial increase in net income.",
+            "Consolidated Closing Balance of Retained Earnings increased by ₹1,409.04 Crores from FY 2022-23 (₹239.74 Crores) to FY 2023-24 (₹1,648.34 Crores), showing a significant growth in retained profits."
+        ],
+        "date_added": "30 September 2024"
+    },
+
+    {
+        "company": "UltraTech Cement Ltd",
+        "history": "Part of the Aditya Birla Group, it's India's largest cement manufacturer.",
+        "insights": [
+            "Consolidated Net Turnover increased by ₹8,472 Crores from FY 2022-23 (₹62,338 Crores) to FY 2023-24 (₹69,810 Crores), indicating significant revenue growth.",
+            "Consolidated Profit Before Tax (PBT) increased by ₹1,189 Crores from FY 2022-23 (₹8,235 Crores) to FY 2023-24 (₹9,422 Crores), showing improved pre-tax profitability.",
+            "Standalone Profit Before Tax (PBT) increased by ₹1,354 Crores from FY 2022-23 (₹8,018 Crores) to FY 2023-24 (₹10,235 Crores), demonstrating substantial growth in standalone pre-tax profits.",
+            "Consolidated Profit After Tax (PAT) increased by ₹1,931 Crores from FY 2022-23 (₹5,073 Crores) to FY 2023-24 (₹7,004 Crores), showing a significant rise in net income.",
+            "Cement production in MMT increased by 12% from 99.43 MMT in FY 2022-23 to 111.63 MMT in FY 2023-24, indicating higher production volume."
+        ],
+        "date_added": "28 September 2012"
+    },
+
+    {
+        "company": "Wipro Ltd",
+        "history": "Founded in 1945, it's a global information technology, consulting, and business process services company.",
+        "insights": [
+            "Consolidated Sales increased by ₹113,699 Million from FY 2022-23 (₹897,603 Million) to FY 2023-24 (₹1,011,302 Million), indicating significant revenue growth.",
+            "Consolidated Net Profit for the year increased by ₹7,458 Million from FY 2022-23 (₹113,663 Million) to FY 2023-24 (₹111,121 Million), indicating a decrease in consolidated net profits.",
+            "Standalone Net Profit for the year increased by ₹(12,481) Million from FY 2022-23 (₹91,767 Million) to FY 2023-24 (₹91,186 Million), indicating a decrease in standalone net profits.",
+            "Consolidated Total Comprehensive Income for the year decreased by ₹6,285 Million from FY 2022-23 (₹124,403 Million) to FY 2023-24 (₹118,180 Million), reflecting a reduction in overall income.",
+            "Earnings per equity share (Basic) increased by ₹0.16 from FY 2022-23 (₹20.73) to FY 2023-24 (₹20.89), demonstrating a slight increase in shareholder value."
+        ],
+        "date_added": "27 September 2013"
+    },
+    
+    {
+        "company": "Zomato Ltd",
+        "history": "Founded in 2008, it's an Indian multinational restaurant aggregator and food delivery company.",
+        "insights": [
+            "Consolidated Total Income increased by ₹5,200 Crores from FY 2023 (₹7,761 Crores) to FY 2024 (₹12,961 Crores), indicating significant revenue growth.",
+            "Standalone Profit/ (loss) before tax increased by ₹1,255 Crores from FY 2023 (₹117 Crores) to FY 2024 (₹1,372 Crores), showing a substantial improvement in pre-tax profitability.",
+            "Consolidated Profit/ (loss) before tax increased by ₹1,274 Crores from FY 2023 (₹(1,015) Crores) to FY 2024 (₹291 Crores), reflecting a significant turnaround to profitability.",
+            "Standalone Profit/ (loss) for the year increased by ₹1,254 Crores from FY 2023 (₹117 Crores) to FY 2024 (₹1,371 Crores), indicating a substantial rise in net income.",
+            "Consolidated Total comprehensive income/ (loss) for the year increased by ₹1,476 Crores from FY 2023 (₹(1,070) Crores) to FY 2024 (₹406 Crores), showing a significant improvement in overall income."
+        ],
+        "date_added": "28 March 2025"
+    }
+
+]
